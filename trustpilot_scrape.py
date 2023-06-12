@@ -19,58 +19,99 @@ combined_file = True
 sites = [
     {
         "name": "NL",
-        "url": "miele.nl",
-        "pages": 7
+        "url": "miele.nl"
     },
     {
         "name": "ES",
-        "url": "miele.es",
-        "pages": 3
+        "url": "miele.es"
     },
     {
         "name": "IT",
-        "url": "miele.it",
-        "pages": 3
+        "url": "miele.it"
     },
     {
         "name": "DK",
-        "url": "www.miele.dk",
-        "pages": 104
+        "url": "www.miele.dk"
     },
     {
         "name": "NO",
-        "url": "miele.no",
-        "pages": 1
+        "url": "miele.no"
     },
     {
         "name": "SE",
-        "url": "miele.se",
-        "pages": 2
+        "url": "miele.se"
     },
     {
         "name": "UK",
-        "url": "www.miele.co.uk",
-        "pages": 118
+        "url": "www.miele.co.uk"
     },
     {
         "name": "BE",
-        "url": "miele.be",
-        "pages": 3
+        "url": "miele.be"
     },
     {
         "name": "FR",
-        "url": "miele.fr",
-        "pages": 14
+        "url": "miele.fr"
     },
     {
         "name": "DE",
-        "url": "www.miele.de",
-        "pages": 47
+        "url": "www.miele.de"
     },
     {
         "name": "US",
-        "url": "mieleusa.com",
-        "pages": 6
+        "url": "mieleusa.com"
+    },
+    {
+        "name": "CH",
+        "url": "miele.ch"
+    },
+    {
+        "name": "AT",
+        "url": "miele.at"
+    },
+    {
+        "name": "AUS",
+        "url": "miele.com.au"
+    },
+    {
+        "name": "ZA",
+        "url": "miele.co.za"
+    },
+    {
+        "name": "IE",
+        "url": "miele.ie"
+    },
+    {
+        "name": "SCT",
+        "url": "mielescotland.com"
+    },
+    {
+        "name": "LU",
+        "url": "miele.lu"
+    },
+    {
+        "name": "SVN",
+        "url": "miele.si"
+    },
+    {
+        "name": "PT",
+        "url": "miele.pt"
+    },
+    {
+        "name": "RO",
+        "url": "miele.ro"
+    },
+    {
+        "name": "GR",
+        "url": "miele.gr"
+    },
+    {
+        "name": "FI",
+        "url": "miele.fi"
+    },
+    {
+        "name": "RU",
+        "url": "miele.ru"
     }
 ]
 review_results = [['Country', 'Name', 'Rating', 'PostedDate', 'Header', 'Content']]
